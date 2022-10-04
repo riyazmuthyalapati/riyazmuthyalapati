@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @riyazmuthyalapati
-- 👀 I’m interested in Learning Data Science  
-- 🌱 I’m currently learning Machine learning 
